@@ -1,4 +1,9 @@
-### Hi there 👋
+#### Portafolio
+
+
+Presentación 💬
+
+Mi nombre es Damien Monasterios, estudie informática en la universidad Britó Figueroa (no culminada) donde fui tutor de programación luego de eso decidir emprender para reforzar los conocimientos adquiridos y aprender las nuevas tecnologías, actualmente estoy en el curso de Desarrollador web Front-end en Academia Geek mediante la beca proporcionada por la misma.
 
 <!--
 **PixelDroid19/PixelDroid19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
