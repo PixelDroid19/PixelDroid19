@@ -1,4 +1,4 @@
-## Hi, I'm Damien Monasterios, a Front-end web developer.
+## Hi 👋, I'm Damien Monasterios, a Front-end web developer.
 
 Welcome to my GitHub profile! I'm a Front-end web developer with over 1 years of experience in the field. I'm passionate about web development and always looking to improve my skills and knowledge to provide the best solutions to my clients.
 
