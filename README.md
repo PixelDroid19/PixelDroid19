@@ -22,7 +22,7 @@ Thank you for visiting my profile!
 
 ## Languages and Tools 🔧
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,scss,python,git,github,vscode,android,vite,cpp&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,scss,python,git,github,vscode,androidstudio,vite,cpp&perline=8)](https://skillicons.dev)
 ---
 
 
